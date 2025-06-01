@@ -40,8 +40,8 @@
 
 ---
 
-### 🐍 Snake do GitHub (contribuições animadas)
+<!-- ### 🐍 Snake do GitHub (contribuições animadas)
 
 <p align="center">
   <img src="https://github.com/leolucena22/leolucena22/blob/output/github-contribution-grid-snake.svg" />
-</p>
+</p> -->
