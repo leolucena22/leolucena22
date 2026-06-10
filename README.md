@@ -52,7 +52,7 @@
     </td>
     <td align="center" width="80">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="40" height="40"/><br/>
-      <sub><b>PHP</b></sub>
+      <sub><b>Laravel</b></sub>
     </td>
   </tr>
 </table>
