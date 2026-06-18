@@ -95,12 +95,9 @@ Sou **Desenvolvedor Full Stack** apaixonado por tecnologia e educação. Tenho f
 <div align="center">
 
 Disponível para projetos freelance, suporte de T.I e parcerias em desenvolvimento web.
-Me encontre também em:
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leolucena22)
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/leolucena22)
-[![TikTok](https://img.shields.io/badge/-TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@leolucena22)
-[![Steam](https://img.shields.io/badge/-Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/leolucena22/)
+[![Email](https://img.shields.io/badge/-leolucena22@vivaldi.net-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leolucena22@vivaldi.net)
 
 <br/>
 
